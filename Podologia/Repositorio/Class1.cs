@@ -23,7 +23,7 @@ namespace Repositorio
             return c;
         }
 
-        Class1 a = new Class1();
+        
 
     }
 }
