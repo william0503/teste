@@ -22,5 +22,8 @@ namespace Repositorio
             var c = a + b;
             return c;
         }
+
+        Class1 a = new Class1();
+
     }
 }
