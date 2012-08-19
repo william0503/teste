@@ -1,0 +1,5 @@
+D:\Dev\Podologia\Podologia\bin\Podologia.dll
+D:\Dev\Podologia\Podologia\bin\Podologia.pdb
+D:\Dev\Podologia\Podologia\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev\Podologia\Podologia\obj\Debug\Podologia.dll
+D:\Dev\Podologia\Podologia\obj\Debug\Podologia.pdb

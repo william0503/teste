@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="4CF7F942-4B7E-41E2-90FB-F136682A7E9F" ModuleId="Podologia" />
+  <Module PersistentId="C2138A64-3EAC-4660-83A9-84DFF3EB1FF5" ModuleId="Aplicacao" />
+  <Module PersistentId="670898A6-C476-4A78-BD29-C15DB4157927" ModuleId="Dominio" />
+  <Module PersistentId="FDCBD595-8017-43C8-A6D6-59559D167CBE" ModuleId="Repositorio" />
+</Modules>
